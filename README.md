@@ -48,3 +48,5 @@ How to Use
 4. Restart WhatsApp and enjoy!
 
 ⭐ If you like the project, don't forget to star it!
+
+Download Link 🔗 https://github.com/kurdishhacker2147/ReWaEnhancer-X-Pro/releases/download/WhatsApp/ReWaEnhancer.X.Pro_1.0-beta.apk
